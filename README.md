@@ -97,7 +97,8 @@ Fine-tuning for higher accuracy
 Conclusion
 
 This project demonstrates how pre-trained transformers can deliver production-level NLP performance with minimal engineering effort.
-
+Link for the presentation
+https://drive.google.com/file/d/1WqHu8meHAZfYWHgcxWKZuh4vIPtdetA_/view?usp=sharing 
 Author
 
 Riddhi Patel
