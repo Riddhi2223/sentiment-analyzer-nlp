@@ -44,9 +44,13 @@ We use the Twitter RoBERTa sentiment model from Cardiff NLP via Hugging Face Tra
 
 
 ├── app.py # Gradio interface
+
 ├── analyzer.py # Core sentiment analysis logic
+
 ├── evaluation.py # Model evaluation (SST-2 dataset)
+
 ├── requirements.txt # Dependencies
+
 └── README.md # Documentation
 
 
